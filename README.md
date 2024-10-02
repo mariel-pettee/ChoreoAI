@@ -16,6 +16,7 @@ While the fields of technology and dance have historically not often intersected
 - Train an AI model that can generate the movements of Dancer #2 conditioned on the inputs of Dancer #1 and/or invent new, physically-plausible duet phrases
 - If time permits: Learn key relationships between parts of the body of each dancer that are integral to the dynamics of the duet
 - We will collaborate with the original dancers to use the model outputs to inspire new performance material
+- Test 
 
 ## Projects
 | Contributor | Approach | Repository Link | Blog Post |
